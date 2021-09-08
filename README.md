@@ -1,2 +1,2 @@
-# JDBC
+# Course in JDBC (finished)
  
